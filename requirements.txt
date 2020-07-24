@@ -3,3 +3,4 @@ nbgitpuller
 # Data analytics
 arviz
 rise
+pystan
