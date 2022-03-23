@@ -2,5 +2,5 @@ nbgitpuller
 
 # Data analytics
 arviz
-rise
-pystan
+preliz @ git+https://github.com/arviz-devs/preliz.git
+xarray-einstats[einops]
