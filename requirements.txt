@@ -1,6 +1,6 @@
 nbgitpuller
 
-# Data analytics
+# ArviZ project Python libraries
 arviz
 preliz @ git+https://github.com/arviz-devs/preliz.git
 xarray-einstats[einops]
